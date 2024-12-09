@@ -5,4 +5,4 @@
 These are the new achievement textures originally included as part of [Modernization MegaPack,](https://github.com/wyndchyme/mc3ds-modern) now also avaliable as a standalone mod!
 
 # Screenshots
-![mc3ds-modern-2](https://github.com/user-attachments/assets/95bfca27-be9a-4c12-b0fd-e63b92c2981e)
+![achieve](https://github.com/user-attachments/assets/cf3027cf-4349-4ac3-a053-649d94523a8e)
